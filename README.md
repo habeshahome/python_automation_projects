@@ -1,2 +1,2 @@
-# python_automation_projects
+# AUTOMATION PROJECTS
 # by: Bamlak Endal K
