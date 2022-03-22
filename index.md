@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Bamlak Endal's System Intelligent Automation Projects
 
 You can use the [editor on GitHub](https://github.com/habeshahome/python_automation_projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
